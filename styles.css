@@ -1,0 +1,9 @@
+body {
+    color: red;
+    background: url("https://livewallpaper.info/wp-content/uploads/2016/07/black-pattern-wallpaper.jpg") fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+    .active {
+    background-color: grey;
+}
