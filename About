@@ -39,10 +39,10 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a href="Home">Home</a></li>
-  <li><a href="News">News</a></li>
-  <li><a href="Contact">Contact</a></li>
-  <li><a class="active" href="About">About</a></li>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="News.html">News</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+  <li><a class="active" href="About.html">About</a></li>
 </ul>
 
     </head>

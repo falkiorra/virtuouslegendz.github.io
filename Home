@@ -6,8 +6,8 @@
         <title>Virtuous Legendz</title>
                 <link rel="stylesheet" href="styles.css"/>
         <center>
-<img src="image.png" style="width:500px;height:150px;">
-        </center>
+<img src="image.png" style="width:500px;height:150px;">      
+         </center>
         <style>
 ul {
     list-style-type: none;
@@ -33,18 +33,18 @@ li a:hover {
     background-color: #111;
 }
 </style>
-<script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="51cf8784f0d343442ba70a70da28a7e7" async="async">
-</script>
+<script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="51cf8784f0d343442ba70a70da28a7e7" async="async"></script>
 </head>
 <body>
 
 <ul>
-  <li><a href="Home">Home</a></li>
-  <li><a href="News">News</a></li>
-  <li><a href="Contact">Contact</a></li>
-  <li><a class="active" href="About">About</a></li>
+  <li><a class="active" href="Home.html">Home</a></li>
+  <li><a href="News.html">News</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+  <li><a href="About.html">About</a></li>
 </ul>
 
     </head>
+    
     </body>
 </html>
