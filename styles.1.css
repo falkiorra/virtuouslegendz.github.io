@@ -1,0 +1,9 @@
+body {
+    color: red;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-color: grey;
+}
+    .active {
+    background-color: grey;
+}
